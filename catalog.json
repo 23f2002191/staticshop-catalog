@@ -23,9 +23,10 @@
     {"id":"prod-24b3b320-017","name":"Standard Item 17","category":"sports","price":465.35,"stock":2,"rating":4.7}
   ],
   "aggregations": {
-    "books": {
-      "count": 7,
-      "inventoryValue": 224430.60
-    }
+    "books": { "count": 7, "inventoryValue": 224430.60 },
+    "sports": { "count": 8, "inventoryValue": 114781.61 },
+    "clothing": { "count": 1, "inventoryValue": 38090.36 },
+    "home": { "count": 1, "inventoryValue": 13949.10 },
+    "electronics": { "count": 0, "inventoryValue": 0 }
   }
 }
