@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "email": "23f2002191@ds.study.iitm.ac.in",
+    "version": "24b3b320"
+  },
+  "products": [
+    {"id":"prod-24b3b320-001","name":"Pro Item 1","category":"books","price":433.66,"stock":182,"rating":2.8},
+    {"id":"prod-24b3b320-002","name":"Premium Item 2","category":"sports","price":108.46,"stock":120,"rating":1.6},
+    {"id":"prod-24b3b320-003","name":"Pro Item 3","category":"books","price":299.19,"stock":155,"rating":4.2},
+    {"id":"prod-24b3b320-004","name":"Basic Item 4","category":"books","price":197.61,"stock":27,"rating":1.6},
+    {"id":"prod-24b3b320-005","name":"Elite Item 5","category":"books","price":73.16,"stock":114,"rating":2.6},
+    {"id":"prod-24b3b320-006","name":"Standard Item 6","category":"books","price":266.57,"stock":101,"rating":4.3},
+    {"id":"prod-24b3b320-007","name":"Elite Item 7","category":"sports","price":120.62,"stock":38,"rating":4.1},
+    {"id":"prod-24b3b320-008","name":"Basic Item 8","category":"books","price":395.33,"stock":135,"rating":3.6},
+    {"id":"prod-24b3b320-009","name":"Premium Item 9","category":"books","price":56.1,"stock":92,"rating":4.5},
+    {"id":"prod-24b3b320-010","name":"Pro Item 10","category":"clothing","price":255.64,"stock":149,"rating":3.8},
+    {"id":"prod-24b3b320-011","name":"Standard Item 11","category":"sports","price":160.13,"stock":18,"rating":4.3},
+    {"id":"prod-24b3b320-012","name":"Pro Item 12","category":"sports","price":303.8,"stock":113,"rating":1.6},
+    {"id":"prod-24b3b320-013","name":"Premium Item 13","category":"sports","price":193.01,"stock":77,"rating":1.1},
+    {"id":"prod-24b3b320-014","name":"Pro Item 14","category":"sports","price":267.07,"stock":109,"rating":5},
+    {"id":"prod-24b3b320-015","name":"Elite Item 15","category":"sports","price":343.87,"stock":54,"rating":3.7},
+    {"id":"prod-24b3b320-016","name":"Standard Item 16","category":"home","price":70.45,"stock":198,"rating":4.1},
+    {"id":"prod-24b3b320-017","name":"Standard Item 17","category":"sports","price":465.35,"stock":2,"rating":4.7}
+  ],
+  "aggregations": {
+    "books": {
+      "count": 7,
+      "inventoryValue": 224430.60
+    }
+  }
+}
